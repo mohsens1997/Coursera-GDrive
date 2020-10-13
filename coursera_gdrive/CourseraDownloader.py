@@ -15,7 +15,8 @@ DEFAULT_SAVE_FOLDER = 'COURSERA'
 
 COURSERA_DL_PARAMETERS = [
                          '--download-delay 0',
-                         '--video-resolution 720p',
+                         '--video-resolution 1080p',
+                         '--subtitle-language en',
                          '--about',
                          '--download-notebooks',
                          '--download-quizzes'
